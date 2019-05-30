@@ -117,7 +117,7 @@ public class ChatActivity extends AppCompatActivity {
                     data.setType(0);
                 }
                 adapter.addItem(data);
-                adapter.notifyDataSetChanged();
+                adapter.notifyDataSetChanged();asas
             }
 
             @Override
